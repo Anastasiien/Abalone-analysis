@@ -1,6 +1,6 @@
 # Проектная работа 
 ## Предсказание возраста морского ушка на основе физических измерений
-### Использованный Датасет: Online Shoppers Purchasing Intention
+### Использованный Датасет: abalone.csv
 Источник: https://github.com/aiedu-courses/eda_and_dev_tools/blob/main/datasets/abalone.csv
 
 #### Атрибуты датасета
